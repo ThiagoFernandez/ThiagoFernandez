@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiago 👋</h1>
 
 <p align="center">
-  IT Management undergraduate (2nd year) · Buenos Aires, Argentina<br>
+  IT Management undergraduate (3nd year) · Ciudad Autonoma de Buenos Aires, Argentina<br>
   Building with <b>Python</b> and <b>Java</b> · <b>CCNA</b> networking · Cybersecurity with Python
 </p>
 
@@ -45,12 +45,6 @@ A few more: **PacketCrafter** (packet crafting with Scapy), **FileIntegrityMonit
 integrity), **arp-flooding** (MAC flooding, lab), **ARPscanner**, **FileCypher**, **subnetting
 calculator** — all in [my repositories](https://github.com/ThiagoFernandez?tab=repositories).
 
-### 📊 GitHub
-
-<!-- Optional: delete these two lines if you don't want the widgets. -->
-![Stats](https://github-readme-stats.vercel.app/api?username=ThiagoFernandez&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFernandez&layout=compact&hide_border=true)
-
 ### 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-fernandez-procacci/)
@@ -64,7 +58,7 @@ calculator** — all in [my repositories](https://github.com/ThiagoFernandez?tab
 
 <br>
 
-**Estudiante de Lic. en Gestión de Tecnología de la Información (2° año) · Buenos Aires, Argentina.**
+**Estudiante de Lic. en Gestión de Tecnología de la Información (3° año) · Ciudad Autonoma de Buenos Aires, Argentina.**
 Desarrollo en **Python** y **Java** · Redes **CCNA** · Ciberseguridad con Python.
 
 **🔭 En qué ando**
