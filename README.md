@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thiago </h1>
 
 <p align="center">
-  IT Management undergraduate (2nd year) · Buenos Aires, Argentina<br>
+  IT Management undergraduate (3nd year) · Ciudad Autonoma de Buenos Aires, Argentina<br>
   Building with <b>Python</b> and <b>Java</b> · <b>CCNA</b> networking · Cybersecurity with Python
 </p>
 
